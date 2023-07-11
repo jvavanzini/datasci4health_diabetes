@@ -8,7 +8,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 |Nome  | RA | Especialização|
 |--|--|--|
 | Ana Carolina Benite Alves  | 165741  | Saúde Coletiva - Nutrição|
-| João Victor Palhares Barbosa  | 173664  | Computação - Líder Github - Conta jvpalhares |
+| João Victor Palhares Barbosa Avanzini | 173664  | Computação - Líder Github - Conta jvavanzini |
 | Caique Santos Lima  | 217040  | Eng. Elétrica e Computação |
 | Gustavo Pessoa Caixeta Pinto de Luz  | 271582  | Computação |
 
